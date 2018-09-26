@@ -1,0 +1,33 @@
+.modal {
+  top: 250px;
+  left: 30%;
+  background: #a7d2db;
+  color: #fff;
+  position: fixed;
+  width: 800px;
+  height: 300px;
+  text-align: center;
+  vertical-align: middle;
+  display: none;
+  font-size: 30px;
+  padding-top: 10px;
+  line-height: 40px;
+  text-transform: uppercase;
+  border: 20px solid #7e7e7e;
+}
+
+.modal button {
+  width: 181px;
+  height: 54px;
+  border-radius: 2px;
+  border: 1px solid rgba(255, 255, 255, 0.35);
+  background-color: #c4e5ec;
+  color: #555555;
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 33px;
+  text-transform: uppercase;
+  letter-spacing: 2.6px;
+  cursor: pointer;
+}
+/*# sourceMappingURL=pop-up.css.map */
