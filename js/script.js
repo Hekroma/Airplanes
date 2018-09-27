@@ -109,3 +109,6 @@ window.rowClick = function (id) {
         $('#modal').hide();
     });
 };
+
+// var position = $(".call-back").offset();
+// $(".call-back").css('margin-right','-'+ position.right + 'px' );
